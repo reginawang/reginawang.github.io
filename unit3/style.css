@@ -1,5 +1,7 @@
 body {
-	background-image: url("background.jpg");
+	background-image: url("background.jpg")
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 
@@ -11,7 +13,7 @@ hr
 }
 
 .Stripe {
-	background-image: url("assets/stripes.png");
+	background-image: url("Assets/stripes.png");
 	background-repeat: repeat-x;
 	height: 13px;	
 	width: 100%;
