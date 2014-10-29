@@ -1,44 +1,32 @@
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	text-align: center;
-	background-image:url("k.jpg");
-
+	background:url("k.jpg") no-repeat;
+	background-size: cover;
  }
-
-
+header {
+	float:left;
+	margin:20px;
+}
 .main {
-	margin-left: 70px;
-	padding-top: 250px;
-
 }
 
 h1{
-
-	font-size: 50px;
-	font-family: helvetica;
-	font-weight: normal;
 	color: #FFFFFF;
+	font-size: 50px;
+	font-family: helvetica, sans-serif;
 	font-weight: bold;
-
 }
 
-
 h2 {
+	color: #FFFFFF;
 	font-size: 120px;
 	font-family: 'Courgette', cursive;
 	font-weight: normal;
-	color: #FFFFFF;
-	text-indent: 30px;
-	font-weight: bold;
-
 }
 
 p{
-
-	font-size: 30px;
-	font-family: helvetica;
-	font-weight: normal;
 	color: #FFFFFF;
-	font-weight: bold;
-
+	font-size: 30px;
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
 }
