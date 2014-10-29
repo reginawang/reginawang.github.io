@@ -2,12 +2,15 @@
 body {
 	background:url("k.jpg") no-repeat;
 	background-size: cover;
+	color: #FFFFFF;
+	font-size: 30px;
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
  }
 header {
-	float:left;
 	margin:20px;
 }
-.main {
+section {
 }
 
 h1{
@@ -24,9 +27,3 @@ h2 {
 	font-weight: normal;
 }
 
-p{
-	color: #FFFFFF;
-	font-size: 30px;
-	font-family: helvetica, sans-serif;
-	font-weight: normal;
-}
