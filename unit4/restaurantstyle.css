@@ -8,22 +8,31 @@ body {
 	font-weight: normal;
  }
 header {
-	margin:20px;
+	margin:0px;
+
 }
 section {
+	margin-top: 50px;
+	text-align: center;
+	line-height: 60px;
 }
 
 h1{
+	background-color: gray;
 	color: #FFFFFF;
-	font-size: 50px;
-	font-family: helvetica, sans-serif;
+	font-size: 40px;
+	font-family: Open Sans, sans-serif;
 	font-weight: bold;
 }
 
 h2 {
 	color: #FFFFFF;
-	font-size: 120px;
+	font-size: 60px;
 	font-family: 'Courgette', cursive;
 	font-weight: normal;
 }
 
+p {
+	color:;
+	font-size: 20px;
+}
