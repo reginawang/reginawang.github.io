@@ -60,6 +60,7 @@ footer p {
 	display: block;
 	margin: 40px 0 40px 0;
 	clear: both;
+	text-align:center;
 }
 #hero img {
 	width:550px;
