@@ -25,6 +25,9 @@ nav a{
 	margin: 17px;
 	display: inline-block;
 }
+nav a:hover {
+	text-decoration:underline;
+}
 
 section{
 text-align: center;
