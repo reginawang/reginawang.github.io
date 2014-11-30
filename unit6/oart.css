@@ -2,18 +2,19 @@
 
 body {
 	background-color: #FFFFFF;
-	font-size: 15px;
+	font-size: 16px;
 	font-family: Cabin, sans-serif;
 }
 
 h2 {
 	font-weight: 800;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 1.25em;
+	margin:0 0 20px 0;
 }
 
 nav {
-	font-size:16px;
+	font-size:1em;
 	text-align: center;
 }
 
@@ -30,7 +31,7 @@ text-align: center;
 }
 
 
-footer {
+footer p {
 	text-align: center;
 	border-top: 1px solid black;
 	padding:10px 0;
@@ -41,6 +42,9 @@ footer {
 #logo {
 	display: block;
 	margin: 10px 0 0 40px;
+}
+#logo img {
+	width:140px;
 }
 
 #about {
@@ -53,4 +57,7 @@ footer {
 	display: block;
 	margin: 40px 0 40px 0;
 	clear: both;
+}
+#hero img {
+	width:550px;
 }
