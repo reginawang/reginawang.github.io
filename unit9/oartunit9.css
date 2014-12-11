@@ -85,6 +85,6 @@ font-size: 1em;
 		width: 6em;
 	}
 	p {
-		font-size: .7em;
+		text-align:left;
 	}
 }
