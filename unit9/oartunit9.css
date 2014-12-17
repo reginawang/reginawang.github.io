@@ -1,5 +1,7 @@
 * { margin:0; padding:0; box-sizing:border box; }
-
+section.about+section.about {
+	margin-top:50px;
+}
 body {
 	background-color: #FFFFFF;
 	color:#222;
@@ -40,12 +42,13 @@ nav a:hover {
 }
 
 section{
+	margin:0 auto;
 	text-align: center;
+	width:40%;
 }
 
 p {
 	font-size: 1em;
-	width: 40%;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
@@ -93,6 +96,7 @@ footer p {
 	  background: white;
 	 }
 	 nav a { font-size:.8em; }
+	 section { width:80%; }
 	#logo {
 	 	width:6em;
 	 }
@@ -107,6 +111,5 @@ footer p {
 }
 	p {
 		text-align:left;
-		width:80%;
 	}
 }
