@@ -81,7 +81,12 @@ footer p {
 #hero img {
 	width:500px;
 }
-
+.artwork {
+	display: block;
+	margin: 2em auto;
+	clear: both;
+	width:80%;
+}
 #artworkintro {
 	font-size: 1em;
 	display: inline-block;
